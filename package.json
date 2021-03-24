@@ -1,5 +1,5 @@
 {
-  "name": "restapilojavideogames",
+  "name": "atividadeherokusimpsons",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RafaelEtec/restapilojavideogames.git"
+    "url": "git+https://github.com/RafaelEtec/atividadeherokusimpsons.git"
   },
   "keywords": [],
   "author": "Rafael Ferreira Goulart",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RafaelEtec/restapilojavideogames/issues"
+    "url": "https://github.com/RafaelEtec/atividadeherokusimpsons/issues"
   },
-  "homepage": "https://github.com/RafaelEtec/restapilojavideogames#readme",
+  "homepage": "https://github.com/RafaelEtec/atividadeherokusimpsons#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }

@@ -69,27 +69,28 @@
   "dubladores": [
     {
       "id": 1,
-      "descricao": "Super Mário",
-      "genero": "Aventura",
-      "rating": 10
+      "nome": "Carlos Alberto Vasconcellos",
+      "personagem": "Homer"
     },
     {
       "id": 2,
-      "descricao": "Red Dead Redemption",
-      "genero": "Faroeste",
-      "rating": 8
+      "nome": "Selma Lopes",
+      "personagem": "Marge"
     },
     {
       "id": 3,
-      "descricao": "Free Fire",
-      "genero": "Aventura e Ação",
-      "rating": 10
+      "nome": "Rodrigo Antas",
+      "personagem": "Bart"
     },
     {
       "id": 4,
-      "descricao": "Fifa 2021",
-      "genero": "Esportes",
-      "rating": 7
+      "nome": "Flávia Saddy",
+      "personagem": "Lisa"
+    },
+    {
+      "id": 5,
+      "nome": "Nancy Cartwright",
+      "personagem": "Maggie"
     }
   ]
 }

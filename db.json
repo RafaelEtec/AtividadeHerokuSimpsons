@@ -39,27 +39,31 @@
   "outrosPersonagens":[
     {
       "id":1,
-      "nomep": "Sonya Blade",
-      "jogo":"Mortal Kombat",
-      "rating": 10
+      "nome": "Ned Flanders",
+      "nomeOriginal": "Nedward Flanders Jr.",
+      "idade": "60",
+      "ocupação": "Farmacêutico"
     },
     {
       "id":2,
-      "nomep": "Chun-Li",
-      "jogo":"Street Fighter",
-      "rating": 8
+      "nome": "Seymour Skinner",
+      "nomeOriginal": "Armin Tamzarian",
+      "idade": "46",
+      "ocupação": "Diretor da escola Fundamental Springfield"
     },
     {
       "id":3,
-      "nomep": "Link",
-      "jogo":"The Legend of Zelda",
-      "rating": 7
+      "nome": "Palhaço Krusty",
+      "nomeOriginal": "Herschel Shmoikel Pinchas Yerucham Krustofsky",
+      "idade": "52",
+      "ocupação": "Palhaço"
     },
     {
       "id":4,
-      "usuario": "admin",
-      "senha":"admin",
-      "email":"admin@admin.com"
+      "nome": "Sideshowbob",
+      "nomeOriginal": "Robert Underdunk Terwilliger Jr.",
+      "idade": "50",
+      "ocupação":"Criminoso"
     }
   ],
   "dubladores": [
